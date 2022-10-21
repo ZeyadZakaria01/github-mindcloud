@@ -8,3 +8,7 @@ def print_myFav_team():
 
 for x in range(10):
 	print_myFav_team()
+
+print ('Feature 1')
+print ('Feature 2')
+print ('Feature 3')
