@@ -5,5 +5,3 @@ print ('I studies Computer & Communication Engineering')
 
 def print_myFav_team():
 	print ('My Favourite team is Software ;D')
-
-print_myFav_team()
